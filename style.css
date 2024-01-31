@@ -1,7 +1,14 @@
+body{
+    background-color: #adc4e2;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
 #calculator{
     border: 3px solid rgb(19, 16, 16);
     border-radius: 5px;
     width: 200px;
+    
 }
 #display{
     border: 2px solid black;
